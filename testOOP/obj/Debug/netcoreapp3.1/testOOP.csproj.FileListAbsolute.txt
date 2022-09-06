@@ -1,0 +1,13 @@
+C:\Users\1\Documents\testOOP\testOOP\bin\Debug\netcoreapp3.1\testOOP.exe
+C:\Users\1\Documents\testOOP\testOOP\bin\Debug\netcoreapp3.1\testOOP.deps.json
+C:\Users\1\Documents\testOOP\testOOP\bin\Debug\netcoreapp3.1\testOOP.runtimeconfig.json
+C:\Users\1\Documents\testOOP\testOOP\bin\Debug\netcoreapp3.1\testOOP.runtimeconfig.dev.json
+C:\Users\1\Documents\testOOP\testOOP\bin\Debug\netcoreapp3.1\testOOP.dll
+C:\Users\1\Documents\testOOP\testOOP\bin\Debug\netcoreapp3.1\testOOP.pdb
+C:\Users\1\Documents\testOOP\testOOP\obj\Debug\netcoreapp3.1\testOOP.csprojAssemblyReference.cache
+C:\Users\1\Documents\testOOP\testOOP\obj\Debug\netcoreapp3.1\testOOP.AssemblyInfoInputs.cache
+C:\Users\1\Documents\testOOP\testOOP\obj\Debug\netcoreapp3.1\testOOP.AssemblyInfo.cs
+C:\Users\1\Documents\testOOP\testOOP\obj\Debug\netcoreapp3.1\testOOP.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\testOOP\testOOP\obj\Debug\netcoreapp3.1\testOOP.dll
+C:\Users\1\Documents\testOOP\testOOP\obj\Debug\netcoreapp3.1\testOOP.pdb
+C:\Users\1\Documents\testOOP\testOOP\obj\Debug\netcoreapp3.1\testOOP.genruntimeconfig.cache
